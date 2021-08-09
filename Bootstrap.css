@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-family:serif;
+    font-style: italic;
+    color: ivory;
+
+}
+
+.my-container{
+    background-color: rgb(2, 18, 63);
+    text-align:center;
+    text-align:justify;
+    color: rgb(238, 238, 248);
+    
+    
+}
+.Block{
+    height:150PX;
+    text-align:center; 
+    background-color: rgb(233, 55, 123);
+    
+}
+.row-1{
+    height: 210px; 
+    background-color: blanchedalmond;
+}
